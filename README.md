@@ -23,7 +23,7 @@ To run this project, you need to have:
 ## Query Results Example
 Here's an example of how the cryptocurrency data looks in PostgreSQL:
 
-![Crypto Data Query Results](Crypto_ETL\images\results.png)
+![Crypto Data Query Results](images/results.png)
 
 ## How to Set It Up
 
