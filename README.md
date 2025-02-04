@@ -19,6 +19,12 @@ To run this project, you need to have:
 - **PostgreSQL** installed and running.
 - The required Python packages (listed in `requirements.txt`).
 
+
+## Query Results Example
+Here's an example of how the cryptocurrency data looks in PostgreSQL:
+
+![Crypto Data Query Results](Crypto_ETL\images\results.png)
+
 ## How to Set It Up
 
 ### 1. Clone the Project
